@@ -1,0 +1,63 @@
+*{
+margin:0;
+padding:0;
+}
+
+.containt{
+  height:100%;
+  width:90%;
+  background-color: grey;
+  border-radius: 5px;
+  margin: auto;
+}
+
+header {
+  background-color: blue;
+  height:150px;
+}
+
+.menu{
+  height: 100px;
+  background-color: grey;
+}
+
+.h1main{
+  height: 200px;
+  background-color: pink;
+}
+
+.h2main{
+  background-color: green;
+  height:200px;
+}
+
+.h3maina, .h3mainb{
+  height:100px;
+}
+
+.h3maina{background-color: white;}
+
+.h3mainb{background-color: black;}
+
+/*bloc secondaire droite*/
+.h5a, .h5b, .h5c, .h5d, .h5e, .h5f{
+  height: 67px;
+}
+
+/*bloc 7*/
+.h5a{background-color: blue;}
+
+/*bloc 8*/
+.h5b{background-color: violet;}
+
+/*bloc 9*/
+.h5c{background-color: red;}
+
+/*bloc 10*/
+.h5d{background-color: orange;}
+
+/*bloc 11*/
+.h5e{background-color: yellow;}
+
+/*bloc 12*/
+.h5f{background-color: green;}
